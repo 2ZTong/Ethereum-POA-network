@@ -1,0 +1,1 @@
+geth --datadir node --maxpeers 3 --networkid '9585' --nodiscover --port '30300' --unlock 'd5c8c57d65146ebd3f200d013503409d81a6331e' --password 'node/password.txt' --mine --minerthreads=1 --etherbase=d5c8c57d65146ebd3f200d013503409d81a6331e

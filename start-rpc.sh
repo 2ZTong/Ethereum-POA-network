@@ -1,0 +1,1 @@
+geth --datadir node --maxpeers 3 --networkid '9585' --nodiscover --port '30300' --unlock 'ebed1888b8d4cdba4c13ae56166d7a26c8118a13' --password 'node/password.txt' --mine --minerthreads=1 --etherbase=ebed1888b8d4cdba4c13ae56166d7a26c8118a13 --rpc --rpcaddr '0.0.0.0' --rpcport '8500' --rpccorsdomain '*' --rpcapi 'personal,eth,net,web3'
