@@ -1,1 +1,1 @@
-ethereum poa network with 3 nodes
+Ethereum poa network sample with 3 nodes
